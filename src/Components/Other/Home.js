@@ -27,7 +27,7 @@ export default class Home extends React.Component {
 						to="/user-contribution"
 						className="btn btn-outline-primary"
 					>
-						User Max Contribution by weekday
+						User Contribution by Weekdays
 					</Link>
 				</Col>
 

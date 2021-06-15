@@ -32,10 +32,9 @@ etc
 
 # Links
 
-<!-- -   [Final Result](https://chess-training-games.netlify.app/) -->
-
+-   [Final Result](https://gh-api.netlify.app/)
 -   [Technology Used](./Developer_Guide.md#technology)
 
-<!-- # Badge
+# Badge
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e60cbbc7-c396-45bd-819c-6e04eb418757/deploy-status)](https://app.netlify.com/sites/chess-training-games/deploys) -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9b031a55-ca90-4dbf-8312-a17d65e2f10a/deploy-status)](https://app.netlify.com/sites/gh-api/deploys)
