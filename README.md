@@ -1,19 +1,19 @@
 <p align="center">
-  <a href="#">
-    <img src="./public/images/logo.png" alt="github logo" width="200">
+  <a href="https://gh-api.netlify.app/">
+    <img src="./public/images/logo.png" alt="gh logo" width="200">
   </a>
 </p>
 
-<h3 align="center">Github API</h3>
+<h3 align="center">gh api</h3>
 
 <p align="center">
-  Doing random stuff with Github API
+  Doing random stuff with gh api
   <br>
-  <a href="https://github.com/withrvr/Github-API/issues/new?template=bug_report.md">Report Bug</a>
+  <a href="https://github.com/withrvr/gh-api/issues/new?template=bug_report.md">Report Bug</a>
   |
-  <a href="https://github.com/withrvr/Github-API/issues/new?template=feature_request.md">Request Feature</a>
+  <a href="https://github.com/withrvr/gh-api/issues/new?template=feature_request.md">Request Feature</a>
   |
-  <a href="https://github.com/withrvr/Github-API/discussions">Discussions</a>
+  <a href="https://github.com/withrvr/gh-api/discussions">Discussions</a>
   <br>
   <a href="mailto:contactwithrvr@gmail.com">contactwithrvr@gmail.com</a>
 </p>

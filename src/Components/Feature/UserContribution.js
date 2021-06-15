@@ -10,13 +10,15 @@ import {
 } from "react-bootstrap";
 
 export default class UserContribution extends React.Component {
+	componentDidMount() {
+		document.title = "User Contribution by Weekdays";
+	}
+
 	constructor(props) {
 		super(props);
 
 		this.state = {
-			contributionContent: (
-				<h4>Fill all Fields Data and Click on See Result</h4>
-			),
+			contributionContent: <h4>Fill all Fields and Click the button</h4>,
 			username: "",
 			fromDate: this.getFormatedDate(new Date(), -366),
 			toDate: this.getFormatedDate(new Date(), 0),
