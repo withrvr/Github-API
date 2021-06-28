@@ -1,6 +1,6 @@
 {
-	"short_name": "gh api",
-	"name": "gh api",
+	"short_name": "Github API",
+	"name": "Github API",
 	"icons": [
 		{
 			"src": "./images/logo.png",

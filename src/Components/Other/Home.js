@@ -4,7 +4,7 @@ import { Container, Col, Image } from "react-bootstrap";
 
 export default class Home extends React.Component {
 	componentDidMount() {
-		document.title = "gh api";
+		document.title = "Github API";
 	}
 
 	render() {
@@ -18,7 +18,7 @@ export default class Home extends React.Component {
 						className="p-3"
 						width="200px"
 					/>
-					<h1>gh api</h1>
+					<h1>Github API</h1>
 				</div>
 
 				{/* links of the games */}
